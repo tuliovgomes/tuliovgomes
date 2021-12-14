@@ -23,7 +23,6 @@ I'm a BackEnd developer from Brazil 🇧🇷
 
 | <a href="https://github.com/tuliovgomes/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tuliovgomes&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/tuliovgomes/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuliovgomes&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
-![1f4bb](https://user-images.githubusercontent.com/17858241/145997323-8609758e-0cd7-4422-a39a-c1712f957bc4.png)
 
 
 
